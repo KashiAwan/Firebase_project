@@ -86,7 +86,7 @@
             </LinearLayout>
 
             <Button
-                android:id="@+id/regstr"
+                android:id="@+id/Add_college"
                 android:layout_gravity="center_horizontal"
                 android:padding="15dp"
                 android:textSize="30dp"
